@@ -1,1 +1,1 @@
-https://github.com/abdullahHanif/SimpleTODO
+https://abdullahhanif.github.io/SimpleTODO/
